@@ -1,0 +1,13 @@
+{
+  "name": "asd-workshop",
+  "version": "1.0.0",
+  "description": "Layered Express products API with TTL caching and cache invalidation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
